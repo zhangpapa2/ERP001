@@ -1,0 +1,5 @@
+{
+  "name": "SenoERP - Production & Inventory",
+  "description": "A comprehensive production scheduling and inventory management system designed for footwear manufacturing. Features order tracking, material allocation algorithms, inventory logs, and production dashboards.",
+  "requestFramePermissions": []
+}
